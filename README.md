@@ -5,6 +5,6 @@ Posters promoting the board game Go
 
 ![Poster-2](https://fireproof.github.com/images/posters/BandW_go_poster-1.png)
 
-![Poster-3](fireproof.github.io/images/posters/9x9_poster.png)
+![Poster-3](https://fireproof.github.io/images/posters/9x9_poster.png)
 
 ![Poster-4](https://fireproof.github.com/images/posters/RWB.png)
