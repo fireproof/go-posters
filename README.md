@@ -8,3 +8,5 @@ Posters promoting the board game Go
 ![Poster-3](https://fireproof.github.io/images/posters/9x9_poster.png)
 
 ![Poster-4](https://fireproof.github.com/images/posters/RWB.png)
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
