@@ -1,5 +1,5 @@
 # go-posters
-Posters promoting the board game Go
+Posters promoting or explaining the board game Go
 
 ![Poster-1](https://fireproof.github.com/images/posters/poster-1.png)
 
@@ -8,6 +8,8 @@ Posters promoting the board game Go
 ![Poster-3](https://fireproof.github.io/images/posters/9x9_poster.png)
 
 ![Poster-4](https://fireproof.github.com/images/posters/RWB.png)
+
+![Poster-5](https://fireproof.github.com/images/posters/go-poster-greyscale.png)
 
 ![small\_cards](https://fireproof.github.com/images/small_cards/business-card-front.png)
 
