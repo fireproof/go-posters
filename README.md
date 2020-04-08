@@ -12,7 +12,7 @@ Posters promoting or explaining the board game Go
 [![Poster-5](https://fireproof.github.com/images/posters/go-poster-greyscale.png)](Poster-5)
 
 ### Small Cards
-[![small\_cards](https://fireproof.github.com/images/small_cards/business-card-front.png)]
+[![small\_cards](https://fireproof.github.com/images/small_cards/business-card-front.png)](small_cards/)
 
 ### Illustrations
 [![illustrations](https://fireproof.github.com/images/posters/Goban_in_Flames.png)](illustrations/)
