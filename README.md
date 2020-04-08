@@ -13,6 +13,6 @@ Posters promoting or explaining the board game Go
 
 ![small\_cards](https://fireproof.github.com/images/small_cards/business-card-front.png)
 
-![illustrations](https://fireproof.github.com/images/posters/Goban_in_Flames.png)
+[![illustrations](https://fireproof.github.com/images/posters/Goban_in_Flames.png)](illustrations/)
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
