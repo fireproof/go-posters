@@ -9,6 +9,6 @@ Posters promoting the board game Go
 
 ![Poster-4](https://fireproof.github.com/images/posters/RWB.png)
 
-![small_cards] (https://fireproof.github.com/images/small_cards/business-card-front.png)
+![small\_cards] (https://fireproof.github.com/images/small\_cards/business-card-front.png)
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
